@@ -1090,6 +1090,13 @@ SingleTaskPaneToolbar .toggl-button.asana-board, /* new ui v1 */
   background-position-x: 8px !important;
 }
 
+.toggl-button.slack-message {
+  background-color: #fff !important;
+  background-size: 15px !important;
+  background-position-y: 4px !important;
+  background-position-x: 4px !important;
+}
+
 /********* ZOHO BOOKS *********/
 .toggl-button.zoho_books {
   margin-top: 5px;
